@@ -1,4 +1,4 @@
-public class NestedElse-IfStatement{
+public class NestedElseIfStatement{
     public static void main(String arg[]){
         System.out.println("Nested else-If Statement : ");
         int x=1010;
